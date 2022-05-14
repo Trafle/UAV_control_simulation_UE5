@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorial\\tutorial.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\tutorialeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\unrealeditor\\development\\tutorial\\definitions.tutorial.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorial\\tutorialgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\tutorialeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\unrealeditor\\development\\tutorial\\definitions.tutorial.h",
+            "d:\\programs\\projects\\ue5\\tutorial\\source\\tutorial\\tutorialgamemodebase.h",
+            "d:\\programs\\projects\\ue5\\tutorial\\source\\tutorial\\gamecharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "d:\\programs\\projects\\ue5\\tutorial\\source\\tutorial\\public\\simulation.h",
+            "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorial\\gamecharacter.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorial\\tutorialgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

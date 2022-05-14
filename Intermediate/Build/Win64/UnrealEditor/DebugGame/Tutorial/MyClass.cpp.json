@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programs\\projects\\ue5\\tutorial\\source\\tutorial\\private\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\tutorialeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programs\\projects\\ue5\\tutorial\\intermediate\\build\\win64\\unrealeditor\\debuggame\\tutorial\\definitions.tutorial.h",
+            "d:\\programs\\projects\\ue5\\tutorial\\source\\tutorial\\public\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

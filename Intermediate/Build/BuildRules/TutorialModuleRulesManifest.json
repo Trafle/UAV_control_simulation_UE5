@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programs\\Projects\\UE5\\Tutorial\\Source\\Tutorial\\Tutorial.Build.cs",
+		"D:\\Programs\\Projects\\UE5\\Tutorial\\Source\\Tutorial.Target.cs",
+		"D:\\Programs\\Projects\\UE5\\Tutorial\\Source\\TutorialEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tutorial",
+			"Path": "D:\\Programs\\Projects\\UE5\\Tutorial\\Source\\Tutorial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TutorialEditor",
+			"Path": "D:\\Programs\\Projects\\UE5\\Tutorial\\Source\\TutorialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
